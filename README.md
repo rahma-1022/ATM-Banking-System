@@ -7,5 +7,5 @@ Transactions: Supports Withdraw and Deposit operations.
 Validation: Ensures withdrawal amount does not exceed the current balance.
 
 ### Technologies Used:
-C++
-Structured Programming Logic
+* C++
+* Structured Programming Logic
