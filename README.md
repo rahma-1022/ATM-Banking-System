@@ -1,5 +1,5 @@
 # ATM Banking System Prototype
-This is my very first programming project using C++. It demonstrates fundamental logic and problem-solving skills.
+This is my first programming project using C++. It demonstrates fundamental logic and problem-solving skills.
 
 ### Features:
 Security: Simple password check.
